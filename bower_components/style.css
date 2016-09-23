@@ -10,15 +10,23 @@
   font-family: "Roboto-Regular";
   src: url(fonts/Roboto-Regular.ttf);
 }
+@font-face {
+  font-family: "Monserat-regular";
+  src: url(fonts/Montserrat-Regular.ttf);
+}
+html,
+body {
+  min-height: 100%;
+}
 .navbar-set {
   border-color: transparent;
   background-color: transparent;
 }
-.header-conatiner {
+.container-fluid {
   padding: 0;
 }
 .nav-menu > li > a {
-  color: white!important;
+  color: white !important;
   text-transform: uppercase;
 }
 #brand-name {
@@ -29,10 +37,14 @@
 .btn-in-sleder {
   background-color: transparent;
   border-radius: 0;
-  color: white ;
+  color: white;
 }
 .slide-text {
   text-transform: uppercase;
+}
+.info {
+  padding-bottom: 40px;
+  padding-top: 110px;
 }
 .info-do {
   font-family: Kaushan, sans-serif;
@@ -64,4 +76,30 @@
 }
 .team-img {
   padding-right: 30px;
+  box-sizing: border-box;
+}
+.team-img > img:hover {
+  box-shadow: 10px 10px #95e1d3;
+}
+.work-list {
+  background-color: #95e1d3;
+  height: 270px;
+  padding: 0;
+  width: 100%;
+}
+.number-works {
+  font-family: "Monserat-bold", sans-serif;
+  font-size: 72px;
+  color: white;
+  width: 20%;
+  margin-left: -1px;
+  float: left;
+  text-align: center;
+  padding-top: 90px;
+  box-sizing: border-box;
+}
+.work-name {
+  font-family: "Monserat-regular", sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
 }
