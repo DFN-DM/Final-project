@@ -14,3 +14,7 @@
   font-family: "Monserat-regular";
   src: url(fonts/Montserrat-Regular.ttf);
 }
+@font-face {
+  font-family: "Material Icons";
+  src: url(fonts/MaterialIcons-Regular.ttf);
+}

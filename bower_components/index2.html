@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="normalize-css/normalize.css">
+    <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="PhotoSwipe-master/dist/photoswipe.css">
+    <link rel="stylesheet" href="PhotoSwipe-master/dist/default-skin/default-skin.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<header class="container-fluid header-conatiner navbar-fixed-top" style="position: relative">
+
+    <nav class="navbar  navbar-inverse ">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand " id="brand-name" href="#">The Edge</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                <ul class="nav navbar-nav navbar-right nav-menu">
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Service</a></li>
+                    <li><a href="#">Work</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="#"><img src="img/naw-icon.png" alt="nav-icon-buy"></a></li>
+                    <li><a href="#"><img src="img/MAGNIFYING%20GLASS.png" alt="nav-icon-find"></a></li>
+
+                </ul>
+            </div><!-- /.navbar-collapse -->
+
+        </div>
+    </nav>
+
+</header>
+<main>
+    <div class="container-fluid slider-2">
+        <div id="carousel-example-generic" class="carousel slide container carusel2" data-ride="carousel">
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <div class="row slider-2-inside">
+                        <div class="col-xs-3">
+                            <img src="img/slider-2-icon.png" alt="icon" class="slider-2-inside-img" >
+                        </div>
+                        <div class="col-xs-9">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad cupiditate earum esse ipsa molestiae nam
+                                omnis repellendus veritatis vero. Necessitatibus, quia, tempore!</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="row slider-2-inside">
+                        <div class="col-xs-3">
+                            <img src="img/slider-2-icon.png" alt="icon" class="slider-2-inside-img" >
+                        </div>
+                        <div class="col-xs-9">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad cupiditate earum esse ipsa molestiae nam
+                                omnis repellendus veritatis vero. Necessitatibus, quia, tempore!</p>
+                        </div>
+                    </div>
+                </div>
+                ...
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+
+    </div>
+    <div class="container">
+        <p class="info-do">Who we are</p>
+
+        <h2 class="info-us">Meet our team</h2>
+
+        <hr id="red-line">
+
+        <p class="info-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut blanditiis consequatur
+            explicabo fugiat
+            incidunt necessitatibus, nesciunt officiis omnis perferendis perspiciatis possimus provident quibusdam
+            quod
+            similique sit vel vitae voluptate?</p>
+
+        <div class="row team">
+            <div class="row">
+                <div class="col-xs-4">
+                    <div class="thumbnail img-team">
+                        <img src="img/team-img1.jpg" alt="team">
+                        <div class="caption">
+                            <h3>Methew Dix</h3>
+                            <p>Graphic Design</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="thumbnail img-team">
+                        <img src="img/team-img2.jpg" alt="team">
+                        <div class="caption">
+                            <h3>Methew Dix</h3>
+                            <p>Graphic Design</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="thumbnail img-team">
+                        <img src="img/team-img3.jpg" alt="team">
+                        <div class="caption">
+                            <h3>Methew Dix</h3>
+                            <p>Graphic Design</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid brands">
+
+    </div>
+
+    <div class="container">
+        <p class="info-do">What we do</p>
+
+        <h2 class="info-us">Some of our work</h2>
+
+        <hr id="red-line">
+
+        <p class="info-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut blanditiis consequatur
+            explicabo fugiat
+            incidunt necessitatibus, nesciunt officiis omnis perferendis perspiciatis possimus provident quibusdam
+            quod
+            similique sit vel vitae voluptate?</p>
+    </div>
+    <div class="container-fluid galery">
+
+        <h2>First gallery:</h2>
+
+        <div class="my-gallery" itemscope itemtype="img">
+
+            <figure itemprop="associatedMedia" itemscope itemtype="img">
+                <a href="img/gal1.jpg" itemprop="contentUrl" data-size="1024x1024">
+                    <img src="img/gal1.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description">Image caption  1</figcaption>
+
+            </figure>
+
+            <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="https://farm2.staticflickr.com/1043/5186867718_06b2e9e551_b.jpg" itemprop="contentUrl" data-size="964x1024">
+                    <img src="https://farm2.staticflickr.com/1043/5186867718_06b2e9e551_m.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description">Image caption 2</figcaption>
+            </figure>
+
+            <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="https://farm7.staticflickr.com/6175/6176698785_7dee72237e_b.jpg" itemprop="contentUrl" data-size="1024x683">
+                    <img src="https://farm7.staticflickr.com/6175/6176698785_7dee72237e_m.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description">Image caption 3</figcaption>
+            </figure>
+
+            <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="https://farm6.staticflickr.com/5023/5578283926_822e5e5791_b.jpg" itemprop="contentUrl" data-size="1024x768">
+                    <img src="https://farm6.staticflickr.com/5023/5578283926_822e5e5791_m.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description">Image caption 4</figcaption>
+            </figure>
+
+
+        </div>
+
+
+
+
+
+        <!-- Root element of PhotoSwipe. Must have class pswp. -->
+        <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+            <!-- Background of PhotoSwipe.
+                 It's a separate element, as animating opacity is faster than rgba(). -->
+            <div class="pswp__bg"></div>
+
+            <!-- Slides wrapper with overflow:hidden. -->
+            <div class="pswp__scroll-wrap">
+
+                <!-- Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory. -->
+                <!-- don't modify these 3 pswp__item elements, data is added later on. -->
+                <div class="pswp__container">
+                    <div class="pswp__item"></div>
+                    <div class="pswp__item"></div>
+                    <div class="pswp__item"></div>
+                </div>
+
+                <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+                <div class="pswp__ui pswp__ui--hidden">
+
+                    <div class="pswp__top-bar">
+
+                        <!--  Controls are self-explanatory. Order can be changed. -->
+
+                        <div class="pswp__counter"></div>
+
+                        <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                        <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                        <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                        <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                        <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                        <!-- element will get class pswp__preloader--active when preloader is running -->
+                        <div class="pswp__preloader">
+                            <div class="pswp__preloader__icn">
+                                <div class="pswp__preloader__cut">
+                                    <div class="pswp__preloader__donut"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                        <div class="pswp__share-tooltip"></div>
+                    </div>
+
+                    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+                    </button>
+
+                    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+                    </button>
+
+                    <div class="pswp__caption">
+                        <div class="pswp__caption__center"></div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</main>
+
+
+<script src="jquery/dist/jquery.min.js"></script>
+<script src="bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="PhotoSwipe-master/dist/photoswipe.min.js"></script>
+<script src="PhotoSwipe-master/dist/photoswipe-ui-default.min.js"></script>
+<script src="main.js"></script>
+
+</body>
+</html>
