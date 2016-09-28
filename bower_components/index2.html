@@ -5,7 +5,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="normalize-css/normalize.css">
     <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css">
-
+    <link rel="stylesheet" href="Magnific-Popup-master/dist/magnific-popup.css">
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -44,161 +44,81 @@
     </nav>
 
 </header>
-<main>
-    <div class="container-fluid slider-2">
-        <div id="carousel-example-generic" class="carousel slide container carusel2" data-ride="carousel">
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner" role="listbox">
-                <div class="item active">
-                    <div class="row slider-2-inside">
-                        <div class="col-xs-3">
-                            <img src="img/slider-2-icon.png" alt="icon" class="slider-2-inside-img">
-                        </div>
-                        <div class="col-xs-9">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad cupiditate earum esse ipsa
-                                molestiae nam
-                                omnis repellendus veritatis vero. Necessitatibus, quia, tempore!</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="row slider-2-inside">
-                        <div class="col-xs-3">
-                            <img src="img/slider-2-icon.png" alt="icon" class="slider-2-inside-img">
-                        </div>
-                        <div class="col-xs-9">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad cupiditate earum esse ipsa
-                                molestiae nam
-                                omnis repellendus veritatis vero. Necessitatibus, quia, tempore!</p>
-                        </div>
-                    </div>
-                </div>
-                ...
-            </div>
 
-            <!-- Controls -->
-            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-        </div>
 
+<footer class="footer container-fluid">
+    <div class="map-block">
+        <a href="#" class="map-href" data-toggle="modal" data-target="#myModal">
+            <img src="img/map-icon.png" alt="">
+
+            <h3 class="map-title">Open map</h3>
+            <hr id="red-line">
+        </a>
     </div>
-    <div class="container">
-        <p class="info-do">Who we are</p>
 
-        <h2 class="info-us">Meet our team</h2>
 
-        <hr id="red-line">
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title" id="myModalLabel">Map</h4>
+                </div>
+                <div class="modal-body">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2588.448068685997!2d25.614056315319626!3d49.55156827936142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47303155a97ca527%3A0xb5a6da1307937b29!2z0L_RgNC-0YHQv9C10LrRgiDQodGC0LXQv9Cw0L3QsCDQkdCw0L3QtNC10YDQuCwgMzMsINCi0LXRgNC90L7Qv9GW0LvRjCwg0KLQtdGA0L3QvtC_0ZbQu9GM0YHRjNC60LAg0L7QsdC70LDRgdGC0YwsIDQ2MDAw!5e0!3m2!1suk!2sua!4v1475083242634"
+                            frameborder="0" style="border:0; width: 100%; height: 500px;" allowfullscreen></iframe>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 
-        <p class="info-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut blanditiis consequatur
-            explicabo fugiat
-            incidunt necessitatibus, nesciunt officiis omnis perferendis perspiciatis possimus provident quibusdam
-            quod
-            similique sit vel vitae voluptate?</p>
+                </div>
+            </div>
+        </div>
+    </div>
 
-        <div class="row team">
+    <div class=" footer2">
+        <div class="container">
             <div class="row">
-                <div class="col-xs-4 ">
-                    <div class="thumbnail img-team">
-                        <img src="img/team-img1.jpg" alt="team">
+                <div class="col-xs-5 footer-right">
+                    <h2 class="footer-title">MoGo</h2>
 
-                        <div class="caption">
-                            <h3>Methew Dix</h3>
+                    <p class="footer-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, deserunt dicta
+                        exercitationem iure quibusdam unde! Adipisci, cumque deleniti distinctio dolorem earum,
+                        exercitationem
+                        facere in ipsum itaque, iure laboriosam magni nam odio omnis pariatur quam qui quis quod
+                        reprehenderit
+                        totam veniam?</p>
 
-                            <p>Graphic Design</p>
-                        </div>
-                        <div class="above">
-                            <button class="btn btn-danger">STOP</button>
-                        </div>
+                    <div class="footer-followers">15k</div>
+
+                    <div class="footer-followers2">followers</div>
+                    <hr>
+                    <div class="soc-icons">
+                        <span class="soc-icons-text">Follow us:</span>
+                        <a href="#"><img src="img/facebook.png" alt="facebook-icon"></a>
+                        <a href="#"><img src="img/twitter.png" alt="twitter-icon"></a>
+                        <a href="#"><img src="img/instagram.png" alt="instagram-icon"></a>
+                        <a href="#"><img src="img/pinterest.png" alt="pinterest-icon"></a>
+                        <a href="#"><img src="img/google%20plus.png" alt="google+-icon"></a>
+                        <a href="#"><img src="img/youtube.png" alt="youtube-icon"></a>
+                        <a href="#"><img src="img/dribbble.png" alt="dribbble-icon"></a>
+                        <a href="#"><img src="img/tumblr.png" alt="tumblr-icon"></a>
+
                     </div>
                 </div>
-                <div class="col-xs-4">
-                    <div class="thumbnail img-team">
-                        <img src="img/team-img2.jpg" alt="team">
-
-                        <div class="caption">
-                            <h3>Methew Dix</h3>
-
-                            <p>Graphic Design</p>
-                        </div>
-                        <div class="above"></div>
-                    </div>
-                </div>
-                <div class="col-xs-4">
-                    <div class="thumbnail img-team">
-                        <img src="img/team-img3.jpg" alt="team">
-
-                        <div class="caption">
-                            <h3>Methew Dix</h3>
-
-                            <p>Graphic Design</p>
-                        </div>
-                        <div class="above"></div>
-                    </div>
-            </div>
-
+                <div class="col-xs-4"></div>
+                <div class="col-xs-3"></div>
             </div>
         </div>
     </div>
-
-
-    <div class="container-fluid brands">
-
-    </div>
-
-    <div class="container">
-        <p class="info-do">What we do</p>
-
-        <h2 class="info-us">Some of our work</h2>
-
-        <hr id="red-line">
-
-        <p class="info-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut blanditiis consequatur
-            explicabo fugiat
-            incidunt necessitatibus, nesciunt officiis omnis perferendis perspiciatis possimus provident quibusdam
-            quod
-            similique sit vel vitae voluptate?</p>
-    </div>
-
-
-    <div class="container-fluid">
-        <div class="grid">
-            <div class="grid-sizer">
-                <div class="grid-item"><img src="img/gal1.jpg " class="img-responsive" alt=""></div>
-                <div class="grid-item "><img src="img/gal2.jpg" class="img-responsive" alt=""></div>
-                <div class="grid-item "><img src="img/gal3.jpg"  class="img-responsive" alt=""></div>
-                <div class="grid-item "><img src="img/gal4.jpg" class="img-responsive" alt=""></div>
-                <div class="grid-item "><img src="img/gal5.jpg" class="img-responsive" alt=""></div>
-                <div class="grid-item"><img src="img/gal6.jpg" class="img-responsive" alt=""></div>
-            </div>
-
-
-
-        </div>
-
-    </div>
-
-
-</main>
-
-<footer class="footer container-fluid" >
-    <div class="map"></div>
-<div class="row">
-    <div class="col-xs-4"></div>
-    <div class="col-xs-4"></div>
-    <div class="col-xs-4"></div>
-</div>
 </footer>
 
 
 <script src="jquery/dist/jquery.min.js"></script>
 <script src="bootstrap/dist/js/bootstrap.min.js"></script>
 <script src="masonry/dist/masonry.pkgd.min.js"></script>
+<script src="Magnific-Popup-master/dist/jquery.magnific-popup.min.js"></script>
 <script src="main.js"></script>
 
 </body>

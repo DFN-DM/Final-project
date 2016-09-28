@@ -7,11 +7,10 @@ $(document).ready(function() {
         .on('hide.bs.collapse', function(a) {
             $(a.target).prev('.panel-heading').removeClass('active');
         });
+    $('.grid').masonry({
+        itemSelector: '.grid-item',
+        columnWidth: '.grid-sizer',
+        percentPosition: true
+    });
 });
 
-
-$('.grid').masonry({
-    itemSelector: '.grid-item',
-    columnWidth: '.grid-sizer',
-    percentPosition: true
-});
