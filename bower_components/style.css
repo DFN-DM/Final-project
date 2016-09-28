@@ -310,21 +310,47 @@ body {
 .clients {
   background-image: url("img/bg-people-say.png");
   height: 830px;
+  padding-top: 100px;
 }
 .above {
   background: linear-gradient(to top, yellow, red);
-  height: 400px;
-  opacity: 0.3;
+  height: 100%;
+  width: 100%;
+  display: none;
+  opacity: 0.4;
   position: absolute;
   top: 0;
   left: 0;
 }
 .img-team {
   position: relative;
+  padding: 0;
 }
-.img-team:hover {
+.img-team:hover .above {
   display: block;
 }
 .carousel-control {
   background-image: none !important;
+}
+.grid {
+  max-width: 100%;
+}
+/* clearfix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+/* ---- grid-item ---- */
+.grid-sizer,
+.grid-item {
+  width: 25%;
+}
+.grid-item {
+  height: auto;
+  float: left;
+  width: 20%;
+}
+.clients-title {
+  padding-top: 110px;
 }

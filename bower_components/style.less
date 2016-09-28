@@ -1,6 +1,7 @@
 @import "font";
 @import "accordion";
-@import "gallery";
+@import "blog";
+
 
 html, body {
   min-height: 100%;
@@ -148,11 +149,11 @@ html, body {
 }
 
 .bg3 {
-  position:relative;
+  position: relative;
   z-index: 0;
   height: 570px;
   width: 470px;
-  top:33%;
+  top: 33%;
   left: 35%;
 }
 
@@ -194,9 +195,10 @@ html, body {
 .slider-2-inside-img {
   margin-left: 100px;
 }
-.slider-2-inside{
+
+.slider-2-inside {
   margin-left: 5%;
-  margin-right:5% ;
+  margin-right: 5%;
 }
 
 .carusel2 {
@@ -218,27 +220,107 @@ html, body {
   height: 250px;
 }
 
-.clients {
-  background-image: url("img/bg-people-say.png");
-  height: 830px;
 }
-.above{
+.above {
   background: linear-gradient(to top, yellow, red);
-  height: 400px;
-  //display: none;
-  opacity: 0.3;
+  height: 100%;
+  width: 100%;
+  display: none;
+  opacity: 0.4;
   position: absolute;
   top: 0;
   left: 0;
 
 }
-.img-team{
+
+.img-team {
   position: relative;
+  padding: 0;
 }
-.img-team:hover{
+
+.img-team:hover .above {
   display: block;
 
 }
-.carousel-control{
+
+.carousel-control {
   background-image: none !important;
 }
+
+.grid {
+
+  max-width: 100%;
+}
+
+/* clearfix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- grid-item ---- */
+
+.grid-sizer,
+.grid-item {
+  width: 25%;
+}
+
+.grid-item {
+  height: auto;
+  float: left;
+  width: 20%;
+
+}
+
+.clients {
+  background-image: url("img/bg-people-say.png");
+  height: 830px;
+  padding-top: 100px;
+}
+
+.clients-title {
+  padding-top: 110px;
+}
+
+.client-name{
+  font-family: "Monserat-regular", sans-serif;
+  font-size: 14px;
+  text-transform: uppercase !important;
+  text-align: left;
+}
+
+.client-prof {
+  font-family: "Roboto-LightItalic",sans-serif;
+  font-size: 15px;
+  text-align: left;
+
+}
+
+.client-text {
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 15px;
+
+}
+
+.blogs{
+  padding-top: 200px;
+}
+.blog-bloc{
+  padding: 0;
+  border: none;
+  margin-right: 10000px;
+}
+.blog-info{
+  height: 70px;
+  width: 60px;
+  color: #95e1d3;
+}
+
+.footer{
+  height: 500px;
+  width: 100%;
+  color: red;
+}
+
+

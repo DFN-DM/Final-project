@@ -1,0 +1,13 @@
+.blogs {
+  padding-top: 200px;
+}
+.blog-bloc {
+  padding: 0;
+  border: none;
+  margin-right: 10000px;
+}
+.blog-info {
+  height: 70px;
+  width: 60px;
+  color: #95e1d3;
+}

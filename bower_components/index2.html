@@ -5,9 +5,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="normalize-css/normalize.css">
     <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="justifiedGallery/dist/css/justifiedGallery.min.css">
-    <link rel="stylesheet" href="unitegallery-master/dist/css/unite-gallery.css">
-    <link rel="stylesheet" href="unitegallery-master/dist/themes/default/ug-theme-default.css">
+
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -105,7 +103,7 @@
 
         <div class="row team">
             <div class="row">
-                <div class="col-xs-4 img-hover">
+                <div class="col-xs-4 ">
                     <div class="thumbnail img-team">
                         <img src="img/team-img1.jpg" alt="team">
 
@@ -114,7 +112,9 @@
 
                             <p>Graphic Design</p>
                         </div>
-                        <div class="above"></div>
+                        <div class="above">
+                            <button class="btn btn-danger">STOP</button>
+                        </div>
                     </div>
                 </div>
                 <div class="col-xs-4">
@@ -126,6 +126,7 @@
 
                             <p>Graphic Design</p>
                         </div>
+                        <div class="above"></div>
                     </div>
                 </div>
                 <div class="col-xs-4">
@@ -137,11 +138,14 @@
 
                             <p>Graphic Design</p>
                         </div>
+                        <div class="above"></div>
                     </div>
-                </div>
+            </div>
+
             </div>
         </div>
     </div>
+
 
     <div class="container-fluid brands">
 
@@ -160,54 +164,41 @@
             quod
             similique sit vel vitae voluptate?</p>
     </div>
-    <div class="container-fluid galery">
-        <div id="mygallery">
-            <a href="img/gal1.jpg">
-                <img alt="Title 1" src="img/gal1.jpg"/>
-            </a>
-            <a href="img/gal2.jpg">
-                <img alt="Title 2" src="img/gal2.jpg"/>
-            </a>
-            <!-- other images... -->
+
+
+    <div class="container-fluid">
+        <div class="grid">
+            <div class="grid-sizer">
+                <div class="grid-item"><img src="img/gal1.jpg " class="img-responsive" alt=""></div>
+                <div class="grid-item "><img src="img/gal2.jpg" class="img-responsive" alt=""></div>
+                <div class="grid-item "><img src="img/gal3.jpg"  class="img-responsive" alt=""></div>
+                <div class="grid-item "><img src="img/gal4.jpg" class="img-responsive" alt=""></div>
+                <div class="grid-item "><img src="img/gal5.jpg" class="img-responsive" alt=""></div>
+                <div class="grid-item"><img src="img/gal6.jpg" class="img-responsive" alt=""></div>
+            </div>
+
+
+
         </div>
-    </div>
-
-
-
-
-
-    <!--<div class="container-fluid clients">-->
-
-    <!--</div>-->
-
-    <div id="gallery" style="display:none;">
-
-        <img alt="Image 1 Title" src="img/gal1.jpg"
-             data-image="img/gal1.jpg"
-             data-description="Image 1 Description">
-
-        <img alt="Image 2 Title" src="img/gal2.jpg"
-             data-image="img/gal3.jpg"
-             data-description="Image 2 Description">
-
-        <img alt="Image 2 Title" src="img/gal3.jpg"
-             data-image="img/gal3.jpg"
-             data-description="Image 3 Description">
-
-        <img alt="Image 2 Title" src="img/gal4.jpg"
-             data-image="img/gal4.jpg"
-             data-description="Image 4 Description">
-
 
     </div>
+
+
 </main>
+
+<footer class="footer container-fluid" >
+    <div class="map"></div>
+<div class="row">
+    <div class="col-xs-4"></div>
+    <div class="col-xs-4"></div>
+    <div class="col-xs-4"></div>
+</div>
+</footer>
 
 
 <script src="jquery/dist/jquery.min.js"></script>
 <script src="bootstrap/dist/js/bootstrap.min.js"></script>
-<script src="justifiedGallery/dist/js/jquery.justifiedGallery.min.js"></script>
-<script src="unitegallery-master/dist/js/unitegallery.min.js"></script>
-<script src="unitegallery-master/dist/themes/default/ug-theme-default.js"></script>
+<script src="masonry/dist/masonry.pkgd.min.js"></script>
 <script src="main.js"></script>
 
 </body>

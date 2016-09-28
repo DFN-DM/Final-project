@@ -10,7 +10,8 @@ $(document).ready(function() {
 });
 
 
-$("#mygallery").justifiedGallery();
-jQuery(document).ready(function(){
-    jQuery("#gallery").unitegallery();
+$('.grid').masonry({
+    itemSelector: '.grid-item',
+    columnWidth: '.grid-sizer',
+    percentPosition: true
 });

@@ -18,3 +18,7 @@
   font-family: "Material Icons";
   src: url(fonts/MaterialIcons-Regular.ttf);
 }
+@font-face {
+  font-family: "Roboto-LightItalic";
+  src: url(fonts/Roboto-LightItalic.ttf);
+}
