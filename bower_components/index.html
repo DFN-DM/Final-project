@@ -46,20 +46,16 @@
 <main class="main">
     <div class="container-fluid">
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-            </ol>
+
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
-                <div class="item active">
+                <div class="item active slider-container">
                     <img src="img/slider-bg.jpg" alt="bangee">
 
-                    <div class="carousel-caption">
-                        <h1 class="main-text slide-text">bungee jumping</h1>
+                    <div class="carousel-caption slider-text-container">
+                        <h2 class="slide-text">Extreme template</h2>
+                        <h1 class="main-text slider-title">Welcome to the Edge</h1>
                         <button type="button" class="btn btn-default btn-in-sleder">learn more</button>
                     </div>
                 </div>
@@ -238,6 +234,11 @@
         </div>
     </div>
     <div class="container-fluid design ">
+        <p class="info-do">For all devices</p>
+
+        <h2 class="info-us">Unique Design</h2>
+
+        <hr id="red-line">
         <img src="img/display%20bg%20768x1024.png" alt="" class="img-responsive bg3 ">
         <img src="img/White.png" alt="mob" class="bg4">
     </div>
@@ -262,7 +263,7 @@
                 <img src="img/accord.png" alt="">
             </div>
 
-            <div class=" col-xs-6">
+            <div class=" col-xs-6 clearfix">
 
 
                 <div class="panel-group wrap" id="accordion" role="tablist" aria-multiselectable="true">
@@ -273,6 +274,8 @@
                                    aria-expanded="true" aria-controls="collapseOne">
                                     <img src="img/accord-1-icon.png" alt="icon">
                                     <h5 class="acord-menu">Photography</h5>
+                                    <img src="img/ARROW%20_%20UP.png" alt="up" class="up-arrow">
+                                    <img src="img/ARROW%20_%20DOWN.png" alt="down" class="down-arrow">
                                 </a>
                             </h4>
                         </div>
@@ -312,6 +315,8 @@
                                    href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                     <img src="img/accord-2-icon.png" alt="icon">
                                     <h5 class="acord-menu">Creativity</h5>
+                                    <img src="img/ARROW%20_%20UP.png" alt="up" class="up-arrow">
+                                    <img src="img/ARROW%20_%20DOWN.png" alt="down" class="down-arrow">
                                 </a>
                             </h4>
                         </div>
@@ -344,6 +349,8 @@
                                    href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                     <img src="img/accord-1-icon.png" alt="icon">
                                     <h5 class="acord-menu">Web design</h5>
+                                    <img src="img/ARROW%20_%20UP.png" alt="up" class="up-arrow">
+                                    <img src="img/ARROW%20_%20DOWN.png" alt="down" class="down-arrow">
                                 </a>
                             </h4>
                         </div>
@@ -515,33 +522,32 @@
     </div>
 
 
-
-    <<div class="container">
-    <p class="info-do">What we do</p>
-
-    <h2 class="info-us">Some of our work</h2>
-
-    <hr id="red-line">
-
-    <p class="info-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut blanditiis consequatur
-        explicabo fugiat
-        incidunt necessitatibus, nesciunt officiis omnis perferendis perspiciatis possimus provident quibusdam
-        quod
-        similique sit vel vitae voluptate?</p>
-</div>
-
-
+    <
     <div class="container">
+        <p class="info-do">What we do</p>
+
+        <h2 class="info-us">Some of our work</h2>
+
+        <hr id="red-line">
+
+        <p class="info-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut blanditiis consequatur
+            explicabo fugiat
+            incidunt necessitatibus, nesciunt officiis omnis perferendis perspiciatis possimus provident quibusdam
+            quod
+            similique sit vel vitae voluptate?</p>
+    </div>
+
+
+    <div class="container-fluid">
         <div class="grid">
-            <div class="grid-sizer"> </div>
-                <div class="grid-item"><img src="img/gal1.jpg " class="img-responsive" alt=""></div>
-                <div class="grid-item "><img src="img/gal2.jpg" class="img-responsive" alt=""></div>
-                <div class="grid-item "><img src="img/gal3.jpg"  class="img-responsive" alt=""></div>
-                <div class="grid-item "><img src="img/gal4.jpg" class="img-responsive" alt=""></div>
-                <div class="grid-item "><img src="img/gal5.jpg" class="img-responsive" alt=""></div>
-                <div class="grid-item"><img src="img/gal6.jpg" class="img-responsive" alt=""></div>
-
-
+            <div class="grid-sizer"></div>
+            <div class="grid-item"><img src="img/gal1.jpg " class="img-responsive" alt=""></div>
+            <div class="grid-item "><img src="img/gal2.jpg" class="img-responsive" alt=""></div>
+            <div class="grid-item "><img src="img/gal3.jpg" class="img-responsive" alt=""></div>
+            <div class="grid-item "><img src="img/gal4.jpg" class="img-responsive" alt=""></div>
+            <div class="grid-item "><img src="img/gal5.jpg" class="img-responsive" alt=""></div>
+            <div class="grid-item"><img src="img/gal6.jpg" class="img-responsive" alt=""></div>
+            <div class="grid-item"><img src="img/gal7.jpg" class="img-responsive" alt=""></div>
 
 
         </div>
@@ -776,11 +782,107 @@
         </div>
     </div>
 </main>
+<footer class="footer container-fluid">
+    <div class="map-block">
+        <a href="#" class="map-href" data-toggle="modal" data-target="#myModal">
+            <img src="img/map-icon.png" alt="">
+
+            <h3 class="map-title">Open map</h3>
+            <hr id="red-line">
+        </a>
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title" id="myModalLabel">Map</h4>
+                </div>
+                <div class="modal-body">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2588.448068685997!2d25.614056315319626!3d49.55156827936142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47303155a97ca527%3A0xb5a6da1307937b29!2z0L_RgNC-0YHQv9C10LrRgiDQodGC0LXQv9Cw0L3QsCDQkdCw0L3QtNC10YDQuCwgMzMsINCi0LXRgNC90L7Qv9GW0LvRjCwg0KLQtdGA0L3QvtC_0ZbQu9GM0YHRjNC60LAg0L7QsdC70LDRgdGC0YwsIDQ2MDAw!5e0!3m2!1suk!2sua!4v1475083242634"
+                            frameborder="0" style="border:0; width: 100%; height: 500px;" allowfullscreen></iframe>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class=" footer2">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-5 footer-right">
+                    <h2 class="footer-title">MoGo</h2>
+
+                    <p class="footer-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, deserunt dicta
+                        exercitationem iure quibusdam unde! Adipisci, cumque deleniti distinctio dolorem earum,
+                        exercitationem
+                        facere in ipsum itaque, iure laboriosam magni nam odio omnis pariatur quam qui quis quod
+                        reprehenderit
+                        totam veniam?</p>
+
+                    <div class="footer-followers">15k</div>
+
+                    <div class="footer-followers2">followers</div>
+                    <hr>
+                    <div class="soc-icons">
+                        <span class="soc-icons-text">Follow us:</span>
+                        <a href="#"><img src="img/facebook.png" alt="facebook-icon"></a>
+                        <a href="#"><img src="img/twitter.png" alt="twitter-icon"></a>
+                        <a href="#"><img src="img/instagram.png" alt="instagram-icon"></a>
+                        <a href="#"><img src="img/pinterest.png" alt="pinterest-icon"></a>
+                        <a href="#"><img src="img/google%20plus.png" alt="google+-icon"></a>
+                        <a href="#"><img src="img/youtube.png" alt="youtube-icon"></a>
+                        <a href="#"><img src="img/dribbble.png" alt="dribbble-icon"></a>
+                        <a href="#"><img src="img/tumblr.png" alt="tumblr-icon"></a>
+
+                    </div>
+                    <br>
+                    <div class="contact-form">
+                        <div class="input-group">
+                            <input id="appendedtext" name="appendedtext" class="form-control" placeholder="your email"
+                                   type="text">
+                            <span class="input-group-addon">Subscribe</span>
+                        </div>
+                    </div>
+
+                    <br>
+                    <form class="form-inline">
+                        <div class="form-group">
+                            <input type="email" class="form-control" id="exampleInputEmail2"
+                                   placeholder="your email">
+                        </div>
+                        <button type="submit" class="btn btn-default subscribe-btn">subscribe</button>
+                    </form>
+                </div>
+                <div class="col-xs-4">
+                    <h3>WE in Youtube</h3>
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Fz4F2X1xSc8" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Hv_DRJZZ2qI" frameborder="0" allowfullscreen></iframe>
+                </div>
+
+                <div class="col-xs-3">
+                    <h3>We in instagram</h3>
+                    <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/f52234a0de17597e86823d90e167e5fc.html" id="lightwidget_f52234a0de" name="lightwidget_f52234a0de"  scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+
+                </div>
+
+            </div>
+            <hr>
+        </div>
+    </div>
+</footer>
 
 
 <script src="jquery/dist/jquery.min.js"></script>
 <script src="bootstrap/dist/js/bootstrap.min.js"></script>
 <script src="masonry/dist/masonry.pkgd.min.js"></script>
+
 <script src="main.js"></script>
 
 </body>

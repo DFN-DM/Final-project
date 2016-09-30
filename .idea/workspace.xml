@@ -2,535 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54d4091e-88d5-4031-a62e-b652383564d2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/dist/default-skin/default-skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/dist/default-skin/default-skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/dist/default-skin/default-skin.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/dist/default-skin/preloader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/dist/photoswipe-ui-default.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/dist/photoswipe-ui-default.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/dist/photoswipe.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/dist/photoswipe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/dist/photoswipe.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/photoswipe.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/css/_main-settings.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/css/default-skin/default-skin-svg.sketch/Data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/css/default-skin/default-skin-svg.sketch/metadata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/css/default-skin/default-skin-svg.sketch/version" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/css/default-skin/default-skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/css/default-skin/default-skin.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/css/default-skin/default-skin.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/css/default-skin/default-skin.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/css/default-skin/preloader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/css/main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/js/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/js/desktop-zoom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/js/framework-bridge.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/js/gestures.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/js/history.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/js/items-controller.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/js/show-hide-transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/js/tap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/src/js/ui/photoswipe-ui-default.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/_includes/menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/documentation/api.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/documentation/creating-custom-ui.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/documentation/custom-html-in-slides.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/documentation/faq.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/documentation/getting-started.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/documentation/options.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/documentation/performance-tips.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/documentation/responsive-images.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/documentation/seo.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/documentation/updates.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/site-assets/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/apple-touch-icon-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/fullscreen-laptop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/grunt-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/high-dpi-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/history.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/horizontal-swipe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/keyboard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/lazy-loading.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/lowres.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/luke45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/pinch.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/progressive.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/spread.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/twitter.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/PhotoSwipe-master/website/test/vertical-swipe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/dist/css/justifiedGallery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/dist/css/justifiedGallery.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/dist/js/jquery.justifiedGallery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/dist/js/jquery.justifiedGallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/dist/justifiedGallery.min.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/dist/justifiedGallery.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/justifiedGallery.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/src/js/justifiedGallery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/src/less/justifiedGallery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/justifiedGallery/src/less/justifiedGallery.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/css/unite-gallery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/button-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/cover-grid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/icon-link32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/icon-play32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/icon-zoom32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/lightbox-arrow-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/lightbox-arrow-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/lightbox-icon-close-compact.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/lightbox-icon-close-compact2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/lightbox-icon-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-black1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-black2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-black3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-black4.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-black5.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-black6.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-black7.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-white1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-white2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-white3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-white4.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-white5.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-white6.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader-white7.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader_bright.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/loader_skype_trans.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/not_loaded.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/play-button-round.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/play-button-square.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/images/transparent.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/js/jquery-11.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/js/unitegallery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/js/unitegallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/release_log.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/alexis.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/arrows_strip_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/arrows_strip_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/button_fullscreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/button_playpause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/button_zoom_back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/button_zoom_minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/button_zoom_plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/grid_arrow_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/grid_arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/grid_arrow_left_hortype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/grid_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/grid_arrow_right_hortype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/grid_arrow_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/grid_handle_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/grid_handle_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/grid_handle_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/grid_handle_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/slider_arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/slider_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/alexis/images/slider_bullets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/arrow_grid_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/arrow_grid_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/arrows_strip_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/arrows_strip_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/arrows_strip_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/arrows_strip_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/button_fullscreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/button_playpause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/grid_arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/grid_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/grid_handle_black_bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/grid_handle_black_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/grid_handle_black_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/grid_handle_black_top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/icon_zoom_back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/icon_zoom_minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/icon_zoom_plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/slider_arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/slider_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/slider_bullets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/tile_bullets_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/tile_bullets_brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/tile_bullets_gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/tile_bullets_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/tile_bullets_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/tile_button_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/tile_button_play_pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/skins/default/tile_button_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/carousel/ug-theme-carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/compact/ug-theme-compact.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/default/images/arrow_down_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/default/images/arrows_strip_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/default/images/arrows_strip_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/default/images/button_fullscreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/default/images/button_fullscreen_single.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/default/images/button_playpause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/default/images/button_playpause_single.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/default/ug-theme-default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/default/ug-theme-default.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/grid/ug-theme-grid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/slider/ug-theme-slider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/tiles/ug-theme-tiles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/tilesgrid/ug-theme-tilesgrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/video/images/arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/video/images/arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/video/skin-bottom-text.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/video/skin-right-no-thumb.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/video/skin-right-thumb.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/video/skin-right-title-only.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/dist/themes/video/ug-theme-video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/alter_images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/carousel_video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/compact_bottom.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/compact_left.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/compact_right.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/compact_top.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/default_no_panel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/default_options.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/grid_bottom.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/grid_horizontal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/grid_left.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/grid_right.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/grid_top.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/image1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/image2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/image3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/image4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/sound_cloud.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/tile1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/tile10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/tile2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/tile3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/tile4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/tile5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/tile6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/tile7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/tile8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/tile9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/big/wistia_video.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/html5_video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/sound_cloud.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/thumb1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/thumb2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/thumb3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/thumb4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/tile1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/tile10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/tile2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/tile3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/tile4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/tile5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/tile6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/tile7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/tile8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/tile9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/video1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/video10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/video11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/video12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/video2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/video3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/video4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/video5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/video6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/video7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/video8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/video9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/images/thumbs/wistia_video.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/skin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/slider.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/tiles_columns.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/tiles_columns_links.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/tiles_columns_video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/tiles_justified.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/tiles_justified_links.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/tiles_nested.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/tiles_nested_size.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/tilesgrid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/tilesgrid_arrows.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/tilesgrid_video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/css/unite-gallery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/button-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/cover-grid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/icon-link32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/icon-play32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/icon-zoom32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/lightbox-arrow-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/lightbox-arrow-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/lightbox-icon-close-compact.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/lightbox-icon-close-compact2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/lightbox-icon-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-black1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-black2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-black3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-black4.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-black5.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-black6.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-black7.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-white1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-white2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-white3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-white4.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-white5.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-white6.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader-white7.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader_bright.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/loader_skype_trans.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/not_loaded.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/play-button-round.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/play-button-square.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/images/transparent.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/js/jquery-11.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/js/unitegallery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/js/unitegallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/release_log.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/alexis.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/arrows_strip_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/arrows_strip_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/button_fullscreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/button_playpause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/button_zoom_back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/button_zoom_minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/button_zoom_plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/grid_arrow_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/grid_arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/grid_arrow_left_hortype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/grid_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/grid_arrow_right_hortype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/grid_arrow_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/grid_handle_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/grid_handle_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/grid_handle_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/grid_handle_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/slider_arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/slider_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/alexis/images/slider_bullets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/arrow_grid_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/arrow_grid_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/arrows_strip_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/arrows_strip_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/arrows_strip_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/arrows_strip_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/button_fullscreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/button_playpause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/grid_arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/grid_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/grid_handle_black_bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/grid_handle_black_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/grid_handle_black_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/grid_handle_black_top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/icon_zoom_back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/icon_zoom_minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/icon_zoom_plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/slider_arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/slider_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/slider_bullets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/tile_bullets_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/tile_bullets_brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/tile_bullets_gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/tile_bullets_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/tile_bullets_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/tile_button_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/tile_button_play_pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/skins/default/tile_button_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/carousel/ug-theme-carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/compact/ug-theme-compact.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/default/images/arrow_down_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/default/images/arrows_strip_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/default/images/arrows_strip_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/default/images/button_fullscreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/default/images/button_fullscreen_single.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/default/images/button_playpause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/default/images/button_playpause_single.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/default/ug-theme-default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/default/ug-theme-default.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/grid/ug-theme-grid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/slider/ug-theme-slider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/tiles/ug-theme-tiles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/tilesgrid/ug-theme-tilesgrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/video/images/arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/video/images/arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/video/skin-bottom-text.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/video/skin-right-no-thumb.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/video/skin-right-thumb.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/video/skin-right-title-only.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/unitegallery/themes/video/ug-theme-video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/video_both.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/video_bottom.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/video_icon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/package/video_title.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/images/big/image1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/images/big/image2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/images/big/image3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/images/big/image4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/images/big/sound_cloud.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/images/big/wistia_video.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/images/thumbs/html5_video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/images/thumbs/sound_cloud.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/images/thumbs/thumb1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/images/thumbs/thumb2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/images/thumbs/thumb3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/images/thumbs/thumb4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/images/thumbs/wistia_video.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/css/unite-gallery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/button-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/cover-grid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/icon-link32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/icon-play32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/icon-zoom32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/lightbox-arrow-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/lightbox-arrow-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/lightbox-icon-close-compact.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/lightbox-icon-close-compact2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/lightbox-icon-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-black1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-black2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-black3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-black4.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-black5.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-black6.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-black7.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-white1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-white2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-white3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-white4.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-white5.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-white6.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader-white7.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader_bright.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/loader_skype_trans.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/not_loaded.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/play-button-round.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/play-button-square.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/images/transparent.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/jquery-11.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-api.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-avia.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-common-libraries.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-functions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-gallery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-gridpanel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-lightbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-panelsbase.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-slider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-sliderassets.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-strippanel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-tabs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-thumbsgeneral.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-thumbsgrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-thumbsstrip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-tiledesign.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-tiles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-touchslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-touchthumbs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/js/ug-zoomslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/release_log.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/alexis.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/arrows_strip_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/arrows_strip_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/button_fullscreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/button_playpause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/button_zoom_back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/button_zoom_minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/button_zoom_plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/grid_arrow_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/grid_arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/grid_arrow_left_hortype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/grid_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/grid_arrow_right_hortype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/grid_arrow_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/grid_handle_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/grid_handle_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/grid_handle_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/grid_handle_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/slider_arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/slider_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/alexis/images/slider_bullets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/arrow_grid_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/arrow_grid_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/arrows_strip_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/arrows_strip_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/arrows_strip_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/arrows_strip_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/button_fullscreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/button_playpause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/grid_arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/grid_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/grid_handle_black_bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/grid_handle_black_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/grid_handle_black_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/grid_handle_black_top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/icon_zoom_back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/icon_zoom_minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/icon_zoom_plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/slider_arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/slider_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/slider_bullets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/tile_bullets_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/tile_bullets_brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/tile_bullets_gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/tile_bullets_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/tile_bullets_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/tile_button_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/tile_button_play_pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/skins/default/tile_button_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/carousel/ug-theme-carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/compact/ug-theme-compact.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/default/images/arrow_down_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/default/images/arrows_strip_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/default/images/arrows_strip_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/default/images/button_fullscreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/default/images/button_fullscreen_single.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/default/images/button_playpause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/default/images/button_playpause_single.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/default/ug-theme-default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/default/ug-theme-default.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/grid/ug-theme-grid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/slider/ug-theme-slider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/tiles/ug-theme-tiles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/tilesgrid/ug-theme-tilesgrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/video/images/arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/video/images/arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/video/skin-bottom-text.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/video/skin-right-no-thumb.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/video/skin-right-thumb.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/video/skin-right-title-only.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/unitegallery-master/source/unitegallery/themes/video/ug-theme-video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/Magnific-Popup-master.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/font.css" afterPath="$PROJECT_DIR$/bower_components/font.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/font.less" afterPath="$PROJECT_DIR$/bower_components/font.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/index.html" afterPath="$PROJECT_DIR$/bower_components/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/index2.html" afterPath="$PROJECT_DIR$/bower_components/index2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/main.js" afterPath="$PROJECT_DIR$/bower_components/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/style.css" afterPath="$PROJECT_DIR$/bower_components/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/style.less" afterPath="$PROJECT_DIR$/bower_components/style.less" />
     </list>
@@ -553,23 +28,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bower_components/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.964286">
-              <caret line="751" column="7" selection-start-line="751" selection-start-column="7" selection-end-line="751" selection-end-column="7" />
+            <state vertical-scroll-proportion="30.99055">
+              <caret line="869" column="44" selection-start-line="869" selection-start-column="44" selection-end-line="869" selection-end-column="44" />
               <folding>
-                <element signature="n#div#0;n#div#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/index2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.785714">
+              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="136" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bower_components/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6415094">
-              <caret line="322" column="13" selection-start-line="322" selection-start-column="13" selection-end-line="322" selection-end-column="13" />
+            <state vertical-scroll-proportion="-12.892858">
+              <caret line="310" column="11" selection-start-line="310" selection-start-column="11" selection-end-line="310" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -578,7 +68,7 @@
       <file leaf-file-name="blog.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bower_components/blog.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.142858">
+            <state vertical-scroll-proportion="0.0">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
@@ -599,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/bower_components/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -608,7 +98,7 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bower_components/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6785714">
+            <state vertical-scroll-proportion="0.0">
               <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
               <folding />
             </state>
@@ -618,21 +108,9 @@
       <file leaf-file-name="gallery.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bower_components/gallery.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.107143">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/index2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.071428">
-              <caret line="189" column="20" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
-              <folding>
-                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -657,12 +135,12 @@
         <option value="$PROJECT_DIR$/bower_components/accordion.less" />
         <option value="$PROJECT_DIR$/bower_components/contact.html" />
         <option value="$PROJECT_DIR$/bower_components/gallery.less" />
-        <option value="$PROJECT_DIR$/bower_components/main.js" />
         <option value="$PROJECT_DIR$/bower_components/font.less" />
         <option value="$PROJECT_DIR$/bower_components/blog.less" />
+        <option value="$PROJECT_DIR$/bower_components/main.js" />
         <option value="$PROJECT_DIR$/bower_components/style.less" />
-        <option value="$PROJECT_DIR$/bower_components/index.html" />
         <option value="$PROJECT_DIR$/bower_components/index2.html" />
+        <option value="$PROJECT_DIR$/bower_components/index.html" />
       </list>
     </option>
   </component>
@@ -702,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -737,7 +216,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -816,16 +294,16 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17336309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17113096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16239317" sideWeight="0.5029762" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.49702382" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32593855" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16239317" sideWeight="0.5029762" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32478634" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.49702382" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -874,6 +352,8 @@
           <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -883,7 +363,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="673" column="38" selection-start-line="673" selection-start-column="38" selection-end-line="673" selection-end-column="47" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -934,6 +415,8 @@
           <caret line="151" column="10" selection-start-line="151" selection-start-column="10" selection-end-line="151" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -943,7 +426,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="495" column="39" selection-start-line="495" selection-start-column="39" selection-end-line="495" selection-end-column="39" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -986,6 +470,8 @@
           <caret line="180" column="10" selection-start-line="180" selection-start-column="10" selection-end-line="180" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -995,7 +481,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="240" column="2" selection-start-line="240" selection-start-column="2" selection-end-line="240" selection-end-column="74" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1029,6 +516,8 @@
           <caret line="261" column="42" selection-start-line="261" selection-start-column="42" selection-end-line="261" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1062,7 +551,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="404" column="0" selection-start-line="404" selection-start-column="0" selection-end-line="409" selection-end-column="7" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1111,7 +601,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1137,7 +628,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1163,7 +655,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1181,7 +674,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1207,27 +701,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/main.js">
+    <entry file="file://$PROJECT_DIR$/bower_components/blog.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/index.html">
+    <entry file="file://$PROJECT_DIR$/bower_components/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.964286">
-          <caret line="751" column="7" selection-start-line="751" selection-start-column="7" selection-end-line="751" selection-end-column="7" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6785714">
+        <state vertical-scroll-proportion="0.0">
           <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           <folding />
         </state>
@@ -1235,16 +727,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/gallery.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.107143">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/blog.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.142858">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1257,21 +741,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.892858">
+          <caret line="310" column="11" selection-start-line="310" selection-start-column="11" selection-end-line="310" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.071428">
-          <caret line="189" column="20" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
+        <state vertical-scroll-proportion="-6.785714">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="136" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/style.less">
+    <entry file="file://$PROJECT_DIR$/bower_components/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6415094">
-          <caret line="322" column="13" selection-start-line="322" selection-start-column="13" selection-end-line="322" selection-end-column="13" />
-          <folding />
+        <state vertical-scroll-proportion="30.99055">
+          <caret line="869" column="44" selection-start-line="869" selection-start-column="44" selection-end-line="869" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

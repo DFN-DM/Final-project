@@ -25,6 +25,24 @@ html, body {
   text-transform: uppercase;
 }
 
+.nav-menu > li > a:hover {
+  color: orange !important;
+  border-bottom: 2px solid orange;
+}
+
+.nav-menu > li > a > img:hover {
+  color: orange !important;
+  border-bottom: 2px solid orange;
+}
+.slider-container{
+  position: relative;
+}
+.slider-text-container{
+  position: absolute;
+  top: 25%;
+  left: 25%;
+
+}
 #brand-name {
   color: white;
   font-size: 36px;
@@ -39,9 +57,21 @@ html, body {
   background-color: transparent;
   border-radius: 0;
   color: white;
+  width: 160px;
+  font-family: "Monserat-bold", sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
 }
 
 .slide-text {
+
+  font-family: "Kaushan", sans-serif;
+  font-size: 52px;
+}
+
+.slider-title {
+  font-family: "Monserat-bold", sans-serif;
+  font-size: 100px;
   text-transform: uppercase;
 }
 
@@ -152,14 +182,14 @@ html, body {
   z-index: 0;
   height: 570px;
   width: 470px;
-  top: 33%;
+  top: 17.7%;
   left: 35%;
 }
 
 .bg4 {
   position: relative;
   z-index: 2;
-  top: -70px;
+  top: -200px;
   left: 55%;
   height: 420px;
 
@@ -168,6 +198,7 @@ html, body {
 .accordion-block {
 
   padding-top: 110px;
+  position: relative;
 
 }
 
@@ -179,6 +210,16 @@ html, body {
   margin-left: 5%;
   color: black;
 }
+.up-arrow{
+  float: right;
+}
+.down-arrow{
+  float: right;
+}
+#accordion .panel-heading a:before {
+  content: none;
+}
+
 
 .slider-2 {
 
@@ -267,7 +308,7 @@ html, body {
 .grid-item {
   height: auto;
   float: left;
-  width: 20%;
+  width: 25%;
 
 }
 
@@ -335,6 +376,7 @@ html, body {
   font-size: 24px;
   color: #f38181;
 }
+
 //.map-href:hover{
 //  webkit-transform: scale(1.2);
 //  -ms-transform: scale(1.2);
@@ -353,20 +395,31 @@ html, body {
 }
 
 .footer-followers {
-  color:#3f3f3f;
+  color: #3f3f3f;
   font-family: "Monserat-bold", sans-serif;
-  font-size:18px;
+  font-size: 18px;
   display: inline-block;
 }
 
-.footer-followers2{
+.footer-followers2 {
   color: #717171;
   font-family: "Monserat-regular", sans-serif;
-  font-size:14px ;
+  font-size: 14px;
   display: inline-block;
 }
-.soc-icons-text{
+
+.soc-icons-text {
   font-family: "Roboto-LightItalic", sans-serif;
   font-size: 15px;
   color: #bdbdbd;
+}
+
+.subscribe-btn {
+  background-color: #95e1d3;
+  border-radius: 0;
+  margin-left: -5px;
+  font-family: "Monserat-bold", sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: white;
 }
