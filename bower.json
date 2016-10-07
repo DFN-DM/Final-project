@@ -1,0 +1,29 @@
+{
+  "name": "proj_batozhnyi",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "DFN-DM <dm.batozhnyi@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_files",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "masonry": "^4.1.1",
+    "normalize-css": "normalize.css#^5.0.0",
+    "requirejs": "^2.3.2"
+  },
+  "dependencies": {
+    "datatables.net": "^1.10.12",
+    "datatables.net-bs": "^1.10.12"
+  }
+}
