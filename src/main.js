@@ -37,34 +37,50 @@ $(document).ready(function() {
         columnWidth: '.grid-sizer',
         percentPosition: true
     });
+    $(".nano-content").niceScroll({cursorcolor:"#95e1d3"});
 
 
 
 
-    $(".panel").click(function (){
-        if($(".accordion").hasClass("collapsed")){
-            $(".down-arrow").remove();
-        }else
-        {
-            $(".up-arrow").remove();
-
-        }
-    });
+    //$(".panel").click(function (){
+    //    if($(".accordion").hasClass("collapsed")){
+    //        $(".down-arrow").remove();
+    //        $(".up-arrow").add();
+    //    }else
+    //    {
+    //        $(".up-arrow").remove();
+    //        $(".down-arrow").add();
+    //
+    //    }
+    //});
 
     $.getJSON("/data/data-info.json", function(data){
 
             $('#data-table').DataTable( {
                 data: data,
                 columns: [
-                    { title: "Name" },
-                    { title: "Description" },
-                    { title: "E-mail" },
-                    { title: "Country" },
-                    { title: "City" },
-                    { title: "Phone/ Fax" }
+                    { data: "Name" },
+                    { data: "Description" },
+                    { data: "E-mail" },
+                    { data: "Country" },
+                    { data: "City" },
+                    { data: "Phone/ Fax" }
                 ]
             } );
 
         });
-
+    //$('#data-table').DataTable( {
+    //    "ajax": {
+    //        "url": "/data/data-info.json",
+    //        "dataSrc": ""
+    //    },
+    //    columns: [
+    //        { data: "Name" },
+    //        { data: "Description" },
+    //        { data: "E-mail" },
+    //        { data: "Country" },
+    //        { data: "City" },
+    //        { data: "Phone/ Fax" }
+    //    ]
+    //} );
     });

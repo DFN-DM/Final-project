@@ -54,19 +54,58 @@ html, body {
   color: white;
   font-size: 36px;
   font-family: "Monserat-bold", sans-serif;
+  &:hover{
+    font-size: 42px;
+    color:wheat;
+    border-right: 4px solid orange;
+
+  }
 }
 
 .main {
   position: relative;
 }
+.pagination>.active>a,
+.pagination>.active>a:focus,
+.pagination>.active>a:hover,
+.pagination>.active>span,
+.pagination>.active>span:focus,
+.pagination>.active>span:hover {
+
+  background-color: #95e1d3;
+  border-color: #95e1d3;
+
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: grey;
+}
 
 
+#data-table th{
+  background-color: darken( #95e1d3,20%) ;
+  color: white;
+  text-align: center;
+  font-family: "Monserat-bold",sans-serif;
+  font-size: 13px;
 
+}
+.table-hover>tbody>tr:hover {
+  background-color:  lighten(#95e1d3,20%);
+}
+td,th{
+  font-size: 12px;
+  padding: 5px !important;
+}
 
-
-
-
-
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_desc_disabled:after {
+  display: none;
+  opacity: 1;
+}
 
 
 

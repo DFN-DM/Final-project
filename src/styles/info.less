@@ -10,14 +10,28 @@
 }
 
 .info-us {
+  position: relative;
   font-family: "Monserat-bold", sans-serif;
   text-transform: uppercase;
   font-size: 30px;
   text-align: center;
   font-weight: bold;
-}
+  &:after{
+    content:"";
+    position: absolute;
+    bottom: 0;
+    left: 48%;
+    height: 5px;
+    width: 60px;
+    top: 150%;
+    border-top: 5px solid  #f38181;
+
+  }
+    }
+
 
 .info-text {
+  margin-top: 60px;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 16px;
   color: #b3b3b3;
@@ -34,4 +48,47 @@
 
 .info-img {
   padding-top: 40px;
+}
+.team-img {
+  padding-right: 30px;
+  box-sizing: border-box;
+
+
+  }
+.main-img-team{
+  width: auto;
+  height: auto;
+  min-width: 100%;
+  min-height: 100%;
+  max-width: none;
+}
+
+
+.team-img > img:hover {
+  box-shadow: 10px 10px #95e1d3;
+}
+.img-hover1:hover .above {
+  display: block;
+}
+.user-hover-div{
+  vertical-align: middle;
+
+}
+.img-hover1{
+  position: relative;
+  overflow: hidden;
+}
+.user-hover, .user-icon{
+  margin-top: 2em;
+  text-transform: uppercase;
+  font-family: "Monserat-bold",sans-serif;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+
+@media(min-width: 768px) {
+  .img-hover1 {
+
+  }
 }

@@ -31,7 +31,7 @@ gulp.task("vendor-css", function () {
     return gulp.src([
             "src/bower_files/bootstrap/dist/css/bootstrap.css",
             "src/bower_files/normalize-css/normalize.css",
-            "src/bower_files/datatables.net-bs/dataTables.bootstrap.css"
+            "src/bower_files/datatables.net-bs/css/dataTables.bootstrap.css"
 
         ])
         .pipe(nano())
@@ -54,8 +54,9 @@ gulp.task("vendor-js", function () {
             "src/bower_files/fizzy-ui-utils/utils.js",
             "src/bower_files/get-size/get-size.js",
             "src/bower_files/outlayer/item.js",
-            "src/bower_file/datatables.net/js/jquery.dataTables.js",
-            "src/bower_file/datatables.net-bs/js/dataTables.bootstrap.js",
+            "src/bower_files/datatables.net/js/jquery.dataTables.js",
+            "src/bower_files/datatables.net-bs/js/dataTables.bootstrap.js",
+            "src/bower_files/jquery.nicescroll/dist/jquery.nicescroll.min.js",
             "src/main.js"
 
         ])
