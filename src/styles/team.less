@@ -6,8 +6,9 @@
   display: block;
 
 }
+
 .above {
-  background: linear-gradient(to  top, rgba(255,255,0,0.7), rgba(255,0,0,0.7));
+  background: linear-gradient(to top, rgba(255, 255, 0, 0.7), rgba(255, 0, 0, 0.7));
   height: 100%;
   width: 100%;
   display: none;
@@ -33,30 +34,47 @@
 .img-hover:hover .above {
   display: block;
 }
-.btn-team{
+
+.btn-team {
   height: 55px;
   width: 55px;
   background-color: #fce38a;
 }
-.btn-group-team{
+
+.btn-group-team {
   position: absolute;
   top: 45%;
   left: 20%;
+  & button:hover {
+    .img-white {
+      display: block;
+    }
+    .img-red{
+      display: none;
+    }
+  }
 }
-.team-name{
+
+.team-name {
   font-family: "Monserat-regular", sans-serif;
   font-size: 14px;
   text-align: center;
   text-transform: uppercase;
 }
-.team-prof{
+
+.team-prof {
   font-family: "Roboto-LightItalic", sans-serif;
   font-size: 15px;
   text-align: center;
 }
-.accord-img{
+
+.accord-img {
   width: 100%;
   height: auto;
+}
+
+.img-white {
+  display: none;
 }
 
 @media (max-width: 1024px) {

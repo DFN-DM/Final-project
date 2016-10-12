@@ -24,16 +24,33 @@
   text-transform: uppercase;
   box-sizing: border-box;
 }
+.btn-default:hover{
+  color: white;
+  background-color:#95e1d3;
+}
+
 
 .slide-text {
   font-family: "Kaushan", sans-serif;
   font-size: 52px;
+  text-align: center;
+  color: white;
 }
 
 .slider-title {
   font-family: "Monserat-bold", sans-serif;
   font-size: 100px;
   text-transform: uppercase;
+  text-align: center;
+  color: white;
+}
+.slider-text-wraper{
+  position: relative;
+}
+.slide-author{
+  font-family: "Kaushan", sans-serif;
+  font-size: 24px;
+  margin-left: 5px;
 }
 
 #carousel-2, #carousel-3 {
@@ -47,18 +64,22 @@
 
 @media (min-width: 2300px) {
 
-  .slider-text-container{
-    top: 50%;
+  #carousel-2, #carousel-3 {
+    & .carousel-control.left {
+      left: 1%;
+    }
+    & .carousel-control.right {
+      right: 1%;
+    }
   }
 
-
   .carousel-control.right {
-    right: 12% !important;
+    right: 12% ;
 
   }
 
   .carousel-control.left {
-    left: 12% !important;
+    left: 12% ;
   }
 }
 
@@ -91,6 +112,10 @@
 
   .carousel-control.left {
     left: 2% !important;
+  }
+  .slider-2-text{
+    font-size: 14px!important;
+
   }
 }
 

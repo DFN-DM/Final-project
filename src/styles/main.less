@@ -67,6 +67,16 @@ html, body {
 .main {
   position: relative;
 }
+
+.table-header{
+  background-image: url("/img/bg-table.jpg");
+  height: 100%;
+  background-size: cover;
+}
+.btn-table{
+
+  margin-bottom: 50px;
+}
 .pagination>.active>a,
 .pagination>.active>a:focus,
 .pagination>.active>a:hover,
@@ -110,6 +120,25 @@ table.dataTable thead .sorting_desc_disabled:after {
 }
 
 
+#toTop {
+  width:100px;
+  border:1px solid #ccc;
+  background:#95e1d3;
+  text-align:center;
+  padding:5px;
+  position:fixed;
+  bottom:10px;
+  right:10px;
+  cursor:pointer;
+  display:none;
+  color:white;
+  font-family:"Monserat-bold",sans-serif;
+  font-size:14px;
+  opacity: .4;
+}
+#toTop:hover{
+  opacity: 1;
+ }
 
 
 @media (max-width: 1024px) {

@@ -10,6 +10,8 @@
   text-align: center;
   padding-top: 50px;
   background-size: cover;
+  position: relative;
+  width: 100%;
 }
 
 .map-title {
@@ -18,9 +20,18 @@
   color: #f38181;
   display: inline-block;
   text-align: center;
+  &:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 48%;
+    height: 5px;
+    width: 60px;
+    top: 70%;
+    border-top: 5px solid #f38181;
+  }
   &:hover{
     color: orange;
-    font-family: "Kaushan", sans-serif;
   }
 }
 
@@ -29,6 +40,8 @@
   color: #cccccc;
   font-family: "Monserat-bold", sans-serif;
   font-size: 46px;
+  background-size: cover;
+  width: 100%;
 }
 
 .footer-text {
@@ -71,4 +84,25 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  &:hover{
+    background-color: grey;
+
+}
   }
+.soc-widget-title{
+  font-size: 3em;
+  font-family: "Monserat-bold", sans-serif;
+  color: grey;
+  text-transform: uppercase;
+  text-align: center;
+}
+.modal-header{
+  background-color: #95e1d3;
+  color: white;
+  text-align: center;
+  font-family: "Monserat-bold", sans-serif;
+  }
+
+.modal-body {
+  background-color:  lighten(#95e1d3,25%);
+}

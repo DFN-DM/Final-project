@@ -20,9 +20,8 @@
     "jquery": "^3.1.1",
     "masonry": "^4.1.1",
     "normalize-css": "normalize.css#^5.0.0",
-    "requirejs": "^2.3.2",
-    "jquery.nicescroll": "nicescroll#^3.6.8",
-    "datatables.net-dt": "^1.10.12"
+    "jquery.nicescroll": "nicescroll#^3.6.8"
+
   },
   "dependencies": {
     "datatables.net": "^1.10.12",

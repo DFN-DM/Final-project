@@ -1,25 +1,4 @@
-//requirejs.config({
-//    paths: {
-//        "jquery": "vendors/jquery/dist/jquery",
-//        "bootstrap": "vendors/bootstrap/dist/js/bootstrap",
-//        "masonry":"bower_files/masonry/dist/masonry.pkgd"
-//    },
-//    shim: {
-//        jquery: {
-//            exports: "jQuery"
-//        },
-//        bootstrap: {
-//
-//                deps: ["jquery"],
-//                exports: "jQuery"
-//
-//        },
-//        masonry:{
-//            deps: ["jquery"],
-//            exports: "jQuery"
-//        }
-//    }
-//});
+
 
 $(document).ready(function() {
     $('.collapse.in').prev('.panel-heading').addClass('active');
@@ -37,22 +16,14 @@ $(document).ready(function() {
         columnWidth: '.grid-sizer',
         percentPosition: true
     });
+
     $(".nano-content").niceScroll({cursorcolor:"#95e1d3"});
+    $("body").niceScroll({cursorcolor:"#95e1d3", cursorwidth:"12px",cursoropacitymin:"0.6"});
 
 
 
 
-    //$(".panel").click(function (){
-    //    if($(".accordion").hasClass("collapsed")){
-    //        $(".down-arrow").remove();
-    //        $(".up-arrow").add();
-    //    }else
-    //    {
-    //        $(".up-arrow").remove();
-    //        $(".down-arrow").add();
-    //
-    //    }
-    //});
+
 
 
 
@@ -73,20 +44,7 @@ $(document).ready(function() {
             } );
 
         });
-    //$('#data-table').DataTable( {
-    //    "ajax": {
-    //        "url": "/data/data-info.json",
-    //        "dataSrc": ""
-    //    },
-    //    columns: [
-    //        { data: "Name" },
-    //        { data: "Description" },
-    //        { data: "E-mail" },
-    //        { data: "Country" },
-    //        { data: "City" },
-    //        { data: "Phone/ Fax" }
-    //    ]
-    //} );
+
     });
 if ($(".panel-title a").hasClass("collapsed")){
     $(".down-arrow").css("display","block");
@@ -105,4 +63,28 @@ $(".panel").click(function (){
         $(".down-arrow").css("display","none");
 
     }
+});
+
+$(function() {
+
+    $(window).scroll(function() {
+
+        if($(this).scrollTop() != 0) {
+
+            $('#toTop').fadeIn();
+
+        } else {
+
+            $('#toTop').fadeOut();
+
+        }
+
+    });
+
+    $('#toTop').click(function() {
+
+        $('body,html').animate({scrollTop:0},800);
+
+    });
+
 });

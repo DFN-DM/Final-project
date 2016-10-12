@@ -5,7 +5,7 @@ var gulp = require('gulp'),
     concat = require("gulp-concat"),
     uglify = require("gulp-uglify"),
     addSrc = require("gulp-add-src");
-//rgo = require("gulp-requirejs-optimize");
+
 
 gulp.task("html", function () {
     return gulp.src("src/*.html")
@@ -66,14 +66,7 @@ gulp.task("vendor-js", function () {
         .pipe(gulp.dest("dist/js"));
 });
 
-//gulp.task("rgs", function(){
-//    return gulp.src("src/main.js")
-//        .pipe(rgo({
-//            mainConfigFile:"src/main.js",
-//            out:"app.min.js"
-//        }))
-//        .pipe(gulp.dest("dist/js"));
-//});
+
 gulp.task("watch", function () {
     browserSync.init({
         server: "dist"
