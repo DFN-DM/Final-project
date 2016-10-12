@@ -16,19 +16,18 @@
   font-size: 30px;
   text-align: center;
   font-weight: bold;
-  &:after{
-    content:"";
+  &:after {
+    content: "";
     position: absolute;
     bottom: 0;
     left: 48%;
     height: 5px;
     width: 60px;
     top: 150%;
-    border-top: 5px solid  #f38181;
+    border-top: 5px solid #f38181;
 
   }
-    }
-
+}
 
 .info-text {
   margin-top: 60px;
@@ -49,13 +48,14 @@
 .info-img {
   padding-top: 40px;
 }
+
 .team-img {
   padding-right: 30px;
   box-sizing: border-box;
 
+}
 
-  }
-.main-img-team{
+.main-img-team {
   width: auto;
   height: auto;
   min-width: 100%;
@@ -63,32 +63,79 @@
   max-width: none;
 }
 
-
 .team-img > img:hover {
   box-shadow: 10px 10px #95e1d3;
 }
+
 .img-hover1:hover .above {
   display: block;
 }
-.user-hover-div{
+
+.user-hover-div {
   vertical-align: middle;
 
 }
-.img-hover1{
+
+.img-hover1 {
   position: relative;
   overflow: hidden;
 }
-.user-hover, .user-icon{
-  margin-top: 2em;
+
+.user-hover, .user-icon {
+
   text-transform: uppercase;
-  font-family: "Monserat-bold",sans-serif;
+  font-family: "Monserat-bold", sans-serif;
   font-size: 18px;
   color: white;
   text-align: center;
 }
 
-@media(min-width: 768px) {
-  .img-hover1 {
+.user-hover-div {
+  margin-top: 100px;
+}
 
+.user-galery-hover {
+  font-family: Roboto-LightItalic, sans-serif;
+  font-size: 15px;
+  text-align: center;
+  color: white;
+}
+
+@media (max-width: 1024px) {
+  .info-do {
+    font-family: Kaushan, sans-serif;
+    font-size: 12px;
+  }
+
+  .info-us {
+    font-size: 15px;
+    &:after {
+      left: 48%;
+      height: 2px;
+      width: 30px;
+      top: 150%;
+      border-top: 2px solid #f38181;
+    }
+  }
+
+  .info-text {
+    margin-top: 30px;
+    font-size: 10px;
+  }
+
+  .team-img {
+    padding-bottom: 30px;
+  }
+
+  .user-hover-div {
+    margin-top: 30%;
+  }
+
+  .user-galery-hover {
+    font-size: 10px;
+  }
+
+  .user-hover {
+    font-size: 12px;
   }
 }

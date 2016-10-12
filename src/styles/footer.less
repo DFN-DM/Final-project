@@ -9,19 +9,22 @@
   height: 200px;
   text-align: center;
   padding-top: 50px;
+  background-size: cover;
 }
 
 .map-title {
   font-family: "Monserat-bold", sans-serif;
   font-size: 24px;
   color: #f38181;
+  display: inline-block;
+  text-align: center;
+  &:hover{
+    color: orange;
+    font-family: "Kaushan", sans-serif;
+  }
 }
 
-//.map-href:hover{
-//  webkit-transform: scale(1.2);
-//  -ms-transform: scale(1.2);
-//  transform: scale(1.2);
-//}
+
 .footer-title {
   color: #cccccc;
   font-family: "Monserat-bold", sans-serif;
@@ -53,7 +56,9 @@
   font-size: 15px;
   color: #bdbdbd;
 }
-
+.soc-icons>a{
+  margin-right: 1em;
+}
 .subscribe-btn {
   background-color: #95e1d3;
   border-radius: 0;
@@ -62,4 +67,8 @@
   font-size: 14px;
   text-transform: uppercase;
   color: white;
-}
+  margin-right: 2em;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  }

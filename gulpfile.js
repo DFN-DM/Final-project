@@ -80,8 +80,8 @@ gulp.task("watch", function () {
     });
     gulp.watch("src/styles/*.less", ["less"]);
     gulp.watch("src/*.html", ["html"]);
-
-    gulp.watch("dist/*.html").on("change", browserSync.reload)
+    gulp.watch("src/main.js",["vendor-js"]);
+    gulp.watch(["dist/*.html","dist/js/*.js"]).on("change", browserSync.reload)
 });
 
 gulp.task("default", ["html", "img", "fonts", "vendor-css", "less", "vendor-js", "json", "watch"]);

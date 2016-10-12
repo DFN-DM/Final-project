@@ -2,6 +2,7 @@
   background-image: url("/img/slider2-bg.jpg");
   height: 850px;
   position: relative;
+  background-size: cover;
 }
 
 .img-wrapper{
@@ -15,7 +16,7 @@
   height: 570px;
   width: 470px;
   left: 30%;
-  margin-top: 85px;
+  margin-top: 5.9em;
 }
 
 .bg4 {
@@ -24,4 +25,31 @@
   left: 60%;
   margin-top: 280px;
   height: 420px;
+}
+
+
+@media (max-width: 1024px) {
+  .design {
+
+    height:425px;
+
+  }
+  .img-wrapper{
+    position: relative;
+    margin-top: 50px;
+  }
+  .bg3 {
+
+    height: 285px;
+    width: 235px;
+    left: 30%;
+    margin-top: 26px;
+  }
+  .bg4 {
+    position: absolute;
+
+    left: 55%;
+    margin-top: 140px;
+    height: 210px;
+  }
 }
