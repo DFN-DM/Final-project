@@ -1,12 +1,10 @@
-
-
-$(document).ready(function() {
+$(document).ready(function () {
     $('.collapse.in').prev('.panel-heading').addClass('active');
     $('#accordion, #bs-collapse')
-        .on('show.bs.collapse', function(a) {
+        .on('show.bs.collapse', function (a) {
             $(a.target).prev('.panel-heading').addClass('active');
         })
-        .on('hide.bs.collapse', function(a) {
+        .on('hide.bs.collapse', function (a) {
             $(a.target).prev('.panel-heading').removeClass('active');
         });
 
@@ -17,59 +15,78 @@ $(document).ready(function() {
         percentPosition: true
     });
 
-    $(".nano-content").niceScroll({cursorcolor:"#95e1d3"});
-    $("body").niceScroll({cursorcolor:"#95e1d3", cursorwidth:"12px",cursoropacitymin:"0.6"});
+    $(".nano-content").niceScroll({cursorcolor: "#95e1d3"});
+    $("body").niceScroll({cursorcolor: "#95e1d3", cursorwidth: "12px", cursoropacitymin: "0.6"});
+
+
+    $("#validForm").validate({
+        rules: {
+            email: {
+                required: true,
+                email: true
+
+            }
+        },
+        messages: {
+
+            email: {
+                required: "This field is required",
+                email: "Please enter a valid email address"
+            }
+        }
+    });
+
+    $("#validForm").submit(function(e) {
+        
+        e.originalEvent.preventDefault();
+
+    });
 
 
 
 
 
+$.getJSON("/data/data-info.json", function (data) {
 
-
-
-
-
-    $.getJSON("/data/data-info.json", function(data){
-
-            $('#data-table ').DataTable( {
-                data: data,
-                columns: [
-                    { data: "Name" },
-                    { data: "Description" },
-                    { data: "E-mail" },
-                    { data: "Country" },
-                    { data: "City" },
-                    { data: "Phone/ Fax" }
-                ]
-            } );
-
+        $('#data-table ').DataTable({
+            data: data,
+            columns: [
+                {data: "Name"},
+                {data: "Description"},
+                {data: "E-mail"},
+                {data: "Country"},
+                {data: "City"},
+                {data: "Phone/ Fax"}
+            ]
         });
 
     });
-if ($(".panel-title a").hasClass("collapsed")){
-    $(".down-arrow").css("display","block");
-    $(".up-arrow").css("display","none");
-}else {
-    $(".up-arrow").css("display","block");
-    $(".down-arrow").css("display","none");
+
+});
+if ($(".panel-title a").hasClass("collapsed")) {
+    $(".down-arrow").css("display", "block");
+    $(".up-arrow").css("display", "none");
+} else {
+    $(".up-arrow").css("display", "block");
+    $(".down-arrow").css("display", "none");
 
 }
-$(".panel").click(function (){
-    if ($(".panel-title a").hasClass("collapsed")){
-        $(".down-arrow").css("display","block");
-        $(".up-arrow").css("display","none");
-    }else {
-        $(".up-arrow").css("display","block");
-        $(".down-arrow").css("display","none");
+$(".panel").click(function () {
+    if ($(".panel-title a").hasClass("collapsed")) {
+        $(".down-arrow").css("display", "block");
+        $(".up-arrow").css("display", "none");
+    } else {
+        $(".up-arrow").css("display", "block");
+        $(".down-arrow").css("display", "none");
 
     }
 });
 
-$(function() {
+$(function () {
 
-    $(window).scroll(function() {
+    $(window).scroll(function () {
 
-        if($(this).scrollTop() != 0) {
+        if ($(this).scrollTop() != 0) {
 
             $('#toTop').fadeIn();
 
@@ -81,9 +98,9 @@ $(function() {
 
     });
 
-    $('#toTop').click(function() {
+    $('#toTop').click(function () {
 
-        $('body,html').animate({scrollTop:0},800);
+        $('body,html').animate({scrollTop: 0}, 800);
 
     });
 
